@@ -1,0 +1,72 @@
+I (82681) COUNTER: [COUNT] valor=5 direccion=DOWN velocidad=500ms
+I (83181) COUNTER: [COUNT] valor=4 direccion=DOWN velocidad=500ms
+I (83681) COUNTER: [COUNT] valor=3 direccion=DOWN velocidad=500ms
+I (84101) BUTTONS: [BTN_START_PAUSE] Boton presionado
+I (84101) TASK_MANAGER: [MANAGER] Sistema PAUSADO. Contador suspendido
+I (84101) TASK_MANAGER: [MANAGER] Estado contador: 3
+I (85151) BUTTONS: [BTN_START_PAUSE] Boton presionado
+I (85151) TASK_MANAGER: [MANAGER] Sistema REANUDADO desde valor=3
+I (85151) COUNTER: [COUNT] valor=2 direccion=DOWN velocidad=500ms
+I (85151) TASK_MANAGER: [MANAGER] Estado contador: 1
+I (85571) BUTTONS: [BTN_SPEED] Boton presionado
+I (85571) TASK_MANAGER: [MANAGER] Velocidad cambiada a: 250ms
+I (85571) TASK_MANAGER: [MANAGER] Estado contador: 2
+I (85661) COUNTER: [COUNT] valor=1 direccion=DOWN velocidad=250ms
+I (85911) COUNTER: [COUNT] valor=0 direccion=DOWN velocidad=250ms
+I (86161) COUNTER: [COUNT] valor=9 direccion=DOWN velocidad=250ms
+I (86411) COUNTER: [COUNT] valor=8 direccion=DOWN velocidad=250ms
+I (86661) COUNTER: [COUNT] valor=7 direccion=DOWN velocidad=250ms
+I (86751) BUTTONS: [BTN_DIR] Boton presionado
+I (86751) TASK_MANAGER: [MANAGER] Direccion cambiada a: ASCENDENTE
+I (86751) TASK_MANAGER: [MANAGER] Estado contador: 2
+I (86911) COUNTER: [COUNT] valor=8 direccion=UP velocidad=250ms
+I (87161) COUNTER: [COUNT] valor=9 direccion=UP velocidad=250ms
+I (87411) COUNTER: [COUNT] valor=0 direccion=UP velocidad=250ms
+I (87661) COUNTER: [COUNT] valor=1 direccion=UP velocidad=250ms
+I (87911) COUNTER: [COUNT] valor=2 direccion=UP velocidad=250ms
+I (88161) COUNTER: [COUNT] valor=3 direccion=UP velocidad=250ms
+I (88411) COUNTER: [COUNT] valor=4 direccion=UP velocidad=250ms
+I (88501) BUTTONS: [BTN_SPEED] Boton presionado
+I (88501) TASK_MANAGER: [MANAGER] Velocidad cambiada a: 500ms
+I (88501) TASK_MANAGER: [MANAGER] Estado contador: 2
+I (88661) COUNTER: [COUNT] valor=5 direccion=UP velocidad=500ms
+I (89101) BUTTONS: [BTN_DIR] Boton presionado
+I (89101) TASK_MANAGER: [MANAGER] Direccion cambiada a: DESCENDENTE
+I (89101) TASK_MANAGER: [MANAGER] Estado contador: 2
+I (89161) COUNTER: [COUNT] valor=4 direccion=DOWN velocidad=500ms
+I (89661) COUNTER: [COUNT] valor=3 direccion=DOWN velocidad=500ms
+I (90161) COUNTER: [COUNT] valor=2 direccion=DOWN velocidad=500ms
+I (90401) BUTTONS: [BTN_START_PAUSE] Boton presionado
+I (90401) TASK_MANAGER: [MANAGER] Sistema PAUSADO. Contador suspendido
+I (90401) TASK_MANAGER: [MANAGER] Estado contador: 3
+I (91191) BUTTONS: [BTN_START_PAUSE] Boton presionado
+I (91191) TASK_MANAGER: [MANAGER] Sistema REANUDADO desde valor=2
+I (91191) COUNTER: [COUNT] valor=1 direccion=DOWN velocidad=500ms
+I (91191) TASK_MANAGER: [MANAGER] Estado contador: 1
+I (91701) COUNTER: [COUNT] valor=0 direccion=DOWN velocidad=500ms
+I (92201) COUNTER: [COUNT] valor=9 direccion=DOWN velocidad=500ms
+I (92701) COUNTER: [COUNT] valor=8 direccion=DOWN velocidad=500ms
+I (93201) COUNTER: [COUNT] valor=7 direccion=DOWN velocidad=500ms
+I (93701) COUNTER: [COUNT] valor=6 direccion=DOWN velocidad=500ms
+I (94201) COUNTER: [COUNT] valor=5 direccion=DOWN velocidad=500ms
+I (94701) COUNTER: [COUNT] valor=4 direccion=DOWN velocidad=500ms
+I (95201) COUNTER: [COUNT] valor=3 direccion=DOWN velocidad=500ms
+I (95211) BUTTONS: [BTN_DIR] Boton presionado
+I (95211) TASK_MANAGER: [MANAGER] Direccion cambiada a: ASCENDENTE
+I (95211) TASK_MANAGER: [MANAGER] Estado contador: 2
+I (95701) COUNTER: [COUNT] valor=4 direccion=UP velocidad=500ms
+I (96201) COUNTER: [COUNT] valor=5 direccion=UP velocidad=500ms
+I (96701) COUNTER: [COUNT] valor=6 direccion=UP velocidad=500ms
+I (97201) COUNTER: [COUNT] valor=7 direccion=UP velocidad=500ms
+I (97371) BUTTONS: [BTN_SPEED] Boton presionado
+I (97371) TASK_MANAGER: [MANAGER] Velocidad cambiada a: 250ms
+I (97371) TASK_MANAGER: [MANAGER] Estado contador: 2
+I (97701) COUNTER: [COUNT] valor=8 direccion=UP velocidad=250ms
+I (97951) COUNTER: [COUNT] valor=9 direccion=UP velocidad=250ms
+I (98201) COUNTER: [COUNT] valor=0 direccion=UP velocidad=250ms
+I (98451) COUNTER: [COUNT] valor=1 direccion=UP velocidad=250ms
+I (98701) COUNTER: [COUNT] valor=2 direccion=UP velocidad=250ms
+I (98951) COUNTER: [COUNT] valor=3 direccion=UP velocidad=250ms
+I (99101) BUTTONS: [BTN_START_PAUSE] Boton presionado
+I (99101) TASK_MANAGER: [MANAGER] Sistema PAUSADO. Contador suspendido
+I (99101) TASK_MANAGER: [MANAGER] Estado contador: 3
