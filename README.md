@@ -1,9 +1,12 @@
-# Practica3_Primer_Parcial
-# Contador BCD Ascendente/Descendente con FreeRTOS
+# Práctica 3 - Contador BCD Ascendente/Descendente con FreeRTOS
 
 ## Integrante
 
 - Eduardo Cerón
+
+# Introducción
+
+FreeRTOS es un sistema operativo en tiempo real ampliamente utilizado en sistemas embebidos debido a su capacidad para administrar múltiples tareas de manera eficiente. En esta práctica se implementó un contador BCD ascendente y descendente sobre una tarjeta ESP32 utilizando FreeRTOS. El sistema permite controlar la dirección de conteo, la velocidad de actualización y el estado de ejecución mediante botones físicos. Además, se emplearon conceptos importantes como TaskHandle_t, estados de tareas, suspensión y reanudación de tareas, así como el uso de parámetros mediante pvParameters para mejorar la reutilización del código.
 
 # Conceptos a investigar
 
@@ -80,3 +83,7 @@ Permite controlar tareas de forma individual. Gracias a TaskHandle_t es posible 
 ## 8. ¿Qué ocurriría si el contador se implementara con variables globales únicamente?
 
 El programa sería menos modular y más difícil de mantener. Además, aumentaría el riesgo de errores por acceso concurrente a las variables compartidas y sería más complicado reutilizar el código en otros proyectos.
+
+# Conclusión
+
+Durante esta práctica se comprobó el funcionamiento del planificador de FreeRTOS mediante la implementación de un contador BCD controlado por múltiples tareas. Se utilizó TaskHandle_t para administrar la ejecución de tareas mediante suspensión y reanudación, mientras que el uso de pvParameters permitió reutilizar funciones de tarea sin duplicar código. También se observó cómo FreeRTOS administra los estados de las tareas y distribuye el tiempo de ejecución entre ellas. En general, la práctica permitió comprender de manera práctica los mecanismos fundamentales de gestión de tareas en sistemas embebidos basados en FreeRTOS.
